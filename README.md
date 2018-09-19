@@ -1,4 +1,4 @@
-Example PHP project
+Hello World PHP project for Travis CI
 ===================
 
 The purpose of this repository is to show how to use Travis CI to do
