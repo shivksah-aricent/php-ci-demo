@@ -33,6 +33,8 @@ matrix:
   allow_failures:
     - php: 7.0
     - php: hhvm
+    - 5.2
+    - 5.3
 
 # execute any number of scripts before the test run, custom env's are available as variables
 before_script:
